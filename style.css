@@ -392,6 +392,7 @@ body {
   gap: 1.5rem;
   padding: 0.4rem;
   justify-content: center;
+  align-items: center;
 }
 
 .right-box {
