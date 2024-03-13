@@ -391,6 +391,7 @@ body {
   flex-direction: column;
   gap: 1.5rem;
   padding: 0.4rem;
+  justify-content: center;
 }
 
 .right-box {
